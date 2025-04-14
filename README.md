@@ -1,4 +1,5 @@
 ## Hi there 👋
+Data-Driven Chemical Engineer & Full-Stack Developer
 
 <!--
 **Foeira/foeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
