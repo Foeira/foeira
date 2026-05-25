@@ -18,11 +18,7 @@ Chemical Engineer with a Master’s degree in Digital Transformation. Specialize
 
 ---
 
-## Projects & Interests
+# Projects & Interests
 * **Mountaineering & Climbing:** High-altitude alpine expeditions and technical rock climbing.
 * **Craft Brewing:** Application of chemical engineering principles to fermentation and recipe development.
 
----
-
-## Contact
-* **Email:** [jfontnogueira@gmail.com]
